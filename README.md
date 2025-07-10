@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Welcome, I am Samuel Odusanw.<br>
+## Welcome, I am Samuel Odusanwo.<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=Marlz74&label=Profile%20views&color=0e75b6&style=flat)
 
 🌱 I’m a Frontend Developer
@@ -9,10 +9,10 @@
 🛠️ Interested in UI architecture, component-based design, and app security
 🏡 Prefer Fulltime, remote or hybrid work environments that support creativity and productivity
 
-
 ## 🌐 Socials:
-[![LinkedIn](https://www.linkedin.com/in/samuel-odusanwo-765819251/)
-[![Instagram](https://www.instagram.com/odusanwo_samuel?igsh=MWpuMHN1cjkyeXY3Mw%3D%3D&utm_source=qr) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-odusanwo-765819251/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/odusanwo_samuel?igsh=MWpuMHN1cjkyeXY3Mw%3D%3D&utm_source=qr)
+[![Twitter/X](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your_twitter_handle) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelodusanwo)
 
 ### 💻 Tech Stack
 
