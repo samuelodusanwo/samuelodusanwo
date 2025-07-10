@@ -44,12 +44,12 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## 📊 GitHub Stats:
-[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelodusanwo&show_icons=true&theme=vuedark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/samuelodusanwo/github-readme-stats)
+[![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelodusanwo&show_icons=true&theme=nord&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/samuelodusanwo/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samuelodusanwo&theme=vuedark&hide_border=false)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelodusanwo&layout=compact&theme=vuedark&hide_border=false&include_all_commits=true)](https://github.com/samuelodusanwo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelodusanwo&layout=compact&theme=nord&hide_border=false&include_all_commits=true)](https://github.com/samuelodusanwo/github-readme-stats)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=samuelodusanwo&theme=vuedark&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=samuelodusanwo&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
