@@ -2,12 +2,11 @@
 ## Welcome, I am Samuel Odusanwo.<br>
 ![Profile Views](https://komarev.com/ghpvc/?username=Marlz74&label=Profile%20views&color=0e75b6&style=flat)
 
-🌱 I’m a Frontend Developer
-🌐 Focused on building responsive, accessible, and scalable web applications
-🔌 Passionate about integrating APIs, optimizing performance, and enhancing user experience
-🤝 Open to collaborating on frontend and fullstack projects
-🛠️ Interested in UI architecture, component-based design, and app security
-🏡 Prefer Fulltime, remote or hybrid work environments that support creativity and productivity
+🌱 I’m a Full-Stack Developer focused on building responsive, accessible, and scalable web applications.
+🔧 I work across both frontend and backend, integrating APIs, managing state, optimizing performance, and ensuring secure application architecture.
+🧩 I enjoy component-based design, clean UI architecture, and writing maintainable, well-tested code.
+🤝 Open to collaborating on full-stack and product-driven projects.
+🏡 Open to full-time, remote, or hybrid opportunities.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-odusanwo-765819251/)
